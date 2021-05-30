@@ -1,0 +1,1 @@
+IDX|^-^|WORK_ID|^-^|SYS_NM|^-^|SYS_IP|^-^|WORK_STA_DATE

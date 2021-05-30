@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE log4j:configuration PUBLIC "-//APACHE//DTD LOG4J 1.2//EN" "http://logging.apache.org/log4j/1.2/apidocs/org/apache/log4j/xml/doc-files/log4j.dtd">
+<!-- ** 1. jar : log4j-1.2.15.jar 2. log4.xml 파일은 resource폴더 바로 밑에 존재 해야 
+	됨 (만약, resource/pro/ 밑으로 두게 되면 log4j.xml파일을 찾지 못함) (resource 폴더란 : 프로젝트 > 
+	Properties > Java Build Path > Source Tab -> [Add Folder]버튼을 클릭 해서 log4j.xml, 
+	sql파일들이 존재하는 폴더를 선택한 폴더) -->
+
+
+<log4j:configuration
+	xmlns:log4j="http://jakarta.apache.org/log4j/">
+	<!-- 콘솔 로그 <appender name="stdout" class="org.apache.log4j.ConsoleAppender"> 
+		log4j-1.2.15.jar에 존재 패턴 레이아웃 설정.. <layout class="org.apache.log4j.PatternLayout"> 
+		<param name="ConversionPattern" value="%t%gt; [%d{yyyy-MM-dd HH:mm:ss}] [%c{1}] 
+		[%L] [%p] %m %n"/> </layout> </appender> -->
+
+	<!-- 날짜별 로그 -->
+	<appender name="dailyFile"
+		class="org.apache.log4j.DailyRollingFileAppender">    <!-- log4j-1.2.15.jar에 존재 -->
+		<!-- 이것은 날짜별로 로그를 남김. 파일명.확장자.DatePattern으로 정의 함 -->
+		<param name="File" value="/home/tacs/user/KimJW/CMS/log/cms.log" />
+		<!-- <param name="File" value="C:\Users\mobigen\TEST\TEST.log" /> -->
+		<!-- <param name="File" value="${catalina.home}/WEB-INF/log/output.log" 
+			/> -->
+		<!-- 파일생성 안됨<param name="File" value="${context.root}/WEB-INF/log/output.log" 
+			/> -->
+
+		<param name="Append" value="true" />
+		<param name="Encoding" value="UTF-8" />
+		<!-- param name="MaxFileSize" value="100000KB" /> -->
+		<!-- param name="MaxBackupIndex" value="10" /> -->
+		<param name="DatePattern" value="'.'yyMMdd" />
+		<layout class="org.apache.log4j.PatternLayout">
+			<param name="ConversionPattern"
+				value="[%d{yyyy-MM-dd HH:mm:ss}] [%c] [%p] %m %n" />
+			<!-- <param name="ConversionPattern" value="%t> [%d{yyyy-MM-dd HH:mm:ss}] 
+				[%c{1}] [%L] [%p] %m %n"/> 위 pattern 결과 : http-bio-8080-exec-6> [2017-01-12 
+				12:07:44] [root] [179] [ERROR] -->
+		</layout>
+	</appender>
+
+	<!-- <logger name="com.adaptor">
+		<level value="INFO" />
+	</logger> -->
+	
+	<!-- xml 로그 -->
+	<!-- xml형식으로 로그를 남김 <appender name="xmlout" class="org.apache.log4j.FileAppender"> 
+		<param name="file" value="log4jxml.xml"/> <param name="Append" value="true"/> 
+		<layout class="org.apache.log4j.xml.XMLLayout"/> </appender> -->
+
+	<!-- 특정 로거 설정 <logger name="org.springframework" additivity="false"> <level 
+		value="WARN" /> <appender-ref ref="dailyout" /> <appender-ref ref="stdout" 
+		/> </logger> -->
+
+	<!-- root 로거 기본 설정 - ALL > TRACE > DEBUG > INFO > WARN > ERROR > FATAL > 
+		OFF -->
+	<root>
+		<level value="INFO" />
+		<appender-ref ref="dailyFile" />
+	</root>
+
+</log4j:configuration>  

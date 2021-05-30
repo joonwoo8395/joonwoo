@@ -1,0 +1,4 @@
+[2020-06-24 11:39:04,567] | p26797 | /home/eva2/swagger_workspace/bin/swagger_crud.py:1134 | INFO - Logging is set up.
+[2020-06-24 11:39:04,572] | p26797 | /home/eva2/usr/local/Python-3.6.8/lib/python3.6/site-packages/werkzeug/_internal.py:113 | WARNING -  * Debugger is active!
+[2020-06-24 11:39:04,573] | p26797 | /home/eva2/usr/local/Python-3.6.8/lib/python3.6/site-packages/werkzeug/_internal.py:113 | INFO -  * Debugger PIN: 457-179-779
+[2020-06-24 11:39:24,759] | p26797 | /home/eva2/usr/local/Python-3.6.8/lib/python3.6/site-packages/werkzeug/_internal.py:113 | INFO -  * Detected change in '/home/eva2/swagger_workspace/bin/swagger_crud.py', reloading

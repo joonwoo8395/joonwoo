@@ -1,0 +1,6 @@
+[2019-06-13 18:11:46] [com.mobigen.tacs.cms.ftp.FTPCollect] [INFO] FTP Start!! 
+[2019-06-13 18:11:46] [com.mobigen.tacs.cms.ftp.FTPCollect] [ERROR] java.net.ConnectException: Connection refused (Connection refused) 
+[2019-06-13 18:11:46] [com.mobigen.tacs.cms.ftp.FTPCollect] [ERROR] Connection Fail 
+[2019-06-13 18:16:16] [com.mobigen.tacs.cms.ftp.FTPCollect] [INFO] FTP Start!! 
+[2019-06-13 18:16:16] [com.mobigen.tacs.cms.ftp.FTPCollect] [ERROR] java.net.ConnectException: Connection refused (Connection refused) 
+[2019-06-13 18:16:16] [com.mobigen.tacs.cms.ftp.FTPCollect] [ERROR] Connection Fail 

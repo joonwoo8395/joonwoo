@@ -1,0 +1,562 @@
+-----------Koti-WEB-02 (172.27.0.100)-----------------------
+[SWAP]
+0(%)
+
+[MEMORY]
+2(%)
+
+[DISK]
+/ : 25(%)
+
+[DISK]
+/dev : 0(%)
+
+[DISK]
+/dev/shm : 0(%)
+
+[DISK]
+/run : 3(%)
+
+[DISK]
+/sys/fs/cgroup : 0(%)
+
+[DISK]
+/boot : 15(%)
+
+[DISK]
+/DATA : 0(%)
+
+[DISK]
+/run/user/0 : 0(%)
+
+[DISK]
+/run/user/1001 : 0(%)
+
+[LOAD_AVG]
+0.00/0.02/0.05
+
+-----------Koti-WAS-01 (10.65.255.89)-----------------------
+[SWAP]
+2(%)
+
+[MEMORY]
+37(%)
+
+[DISK]
+/ : 30(%)
+
+[DISK]
+/dev : 0(%)
+
+[DISK]
+/dev/shm : 0(%)
+
+[DISK]
+/run : 4(%)
+
+[DISK]
+/sys/fs/cgroup : 0(%)
+
+[DISK]
+/boot : 15(%)
+
+[DISK]
+/DATA : 0(%)
+
+[DISK]
+/run/user/0 : 0(%)
+
+[DISK]
+/koti-nas : 0(%)
+
+[DISK]
+/run/user/1000 : 0(%)
+
+[LOAD_AVG]
+0.00/0.04/0.06
+
+-----------Koti-Harvest (172.27.0.209)-----------------------
+[SWAP]
+0(%)
+
+[MEMORY]
+12(%)
+
+[DISK]
+/ : 27(%)
+
+[DISK]
+/dev : 0(%)
+
+[DISK]
+/dev/shm : 0(%)
+
+[DISK]
+/run : 3(%)
+
+[DISK]
+/sys/fs/cgroup : 0(%)
+
+[DISK]
+/boot : 15(%)
+
+[DISK]
+/DATA : 0(%)
+
+[DISK]
+/run/user/0 : 0(%)
+
+[DISK]
+/run/user/1000 : 0(%)
+
+[DISK]
+/run/user/1001 : 0(%)
+
+[LOAD_AVG]
+0.00/0.01/0.05
+
+-----------koti-was-02 (10.65.255.58)-----------------------
+[SWAP]
+2(%)
+
+[MEMORY]
+35(%)
+
+[DISK]
+/ : 28(%)
+
+[DISK]
+/dev : 0(%)
+
+[DISK]
+/dev/shm : 0(%)
+
+[DISK]
+/run : 4(%)
+
+[DISK]
+/sys/fs/cgroup : 0(%)
+
+[DISK]
+/boot : 15(%)
+
+[DISK]
+/DATA : 0(%)
+
+[DISK]
+/run/user/0 : 0(%)
+
+[DISK]
+/koti-nas : 0(%)
+
+[DISK]
+/run/user/1000 : 0(%)
+
+[LOAD_AVG]
+0.08/0.03/0.05
+
+-----------Koti-OpenLab-M01 (10.64.255.113)-----------------------
+[SWAP]
+0(%)
+
+[MEMORY]
+1(%)
+
+[DISK]
+/ : 25(%)
+
+[DISK]
+/dev : 0(%)
+
+[DISK]
+/dev/shm : 0(%)
+
+[DISK]
+/run : 3(%)
+
+[DISK]
+/sys/fs/cgroup : 0(%)
+
+[DISK]
+/boot : 18(%)
+
+[DISK]
+/DATA : 4(%)
+
+[DISK]
+/run/user/0 : 0(%)
+
+[DISK]
+/run/user/1000 : 0(%)
+
+[LOAD_AVG]
+0.00/0.01/0.05
+
+-----------Koti-Chain-03 (10.65.255.55)-----------------------
+[SWAP]
+0(%)
+
+[MEMORY]
+2(%)
+
+[DISK]
+/ : 26(%)
+
+[DISK]
+/dev : 0(%)
+
+[DISK]
+/dev/shm : 0(%)
+
+[DISK]
+/run : 1(%)
+
+[DISK]
+/sys/fs/cgroup : 0(%)
+
+[DISK]
+/boot : 15(%)
+
+[DISK]
+/DATA : 0(%)
+
+[DISK]
+/koti-nas : 0(%)
+
+[DISK]
+/run/user/0 : 0(%)
+
+[DISK]
+/run/user/1000 : 0(%)
+
+[DISK]
+/run/user/1001 : 0(%)
+
+[LOAD_AVG]
+0.01/0.02/0.05
+
+-----------Koti-DB-02 (10.65.255.90)-----------------------
+[SWAP]
+0(%)
+
+[MEMORY]
+2(%)
+
+[DISK]
+/ : 29(%)
+
+[DISK]
+/dev : 0(%)
+
+[DISK]
+/dev/shm : 0(%)
+
+[DISK]
+/run : 2(%)
+
+[DISK]
+/sys/fs/cgroup : 0(%)
+
+[DISK]
+/DATA : 0(%)
+
+[DISK]
+/boot : 15(%)
+
+[DISK]
+/run/user/1000 : 0(%)
+
+[LOAD_AVG]
+0.00/0.02/0.05
+
+-----------Koti-WEB-01 (172.27.0.196)-----------------------
+[SWAP]
+0(%)
+
+[MEMORY]
+3(%)
+
+[DISK]
+/ : 29(%)
+
+[DISK]
+/dev : 0(%)
+
+[DISK]
+/dev/shm : 0(%)
+
+[DISK]
+/run : 4(%)
+
+[DISK]
+/sys/fs/cgroup : 0(%)
+
+[DISK]
+/boot : 15(%)
+
+[DISK]
+/DATA : 0(%)
+
+[DISK]
+/run/user/0 : 0(%)
+
+[DISK]
+/run/user/1001 : 0(%)
+
+[LOAD_AVG]
+0.05/0.03/0.05
+
+-----------Koti-OpenLab-D01 (172.27.0.107)-----------------------
+[IRIS]
+VALID/20200320114757
+
+-----------Koti-Chain-01 (10.65.255.100)-----------------------
+[SWAP]
+0(%)
+
+[MEMORY]
+8(%)
+
+[DISK]
+/dev : 0(%)
+
+[DISK]
+/run : 9(%)
+
+[DISK]
+/ : 41(%)
+
+[DISK]
+/dev/shm : 0(%)
+
+[DISK]
+/run/lock : 0(%)
+
+[DISK]
+/sys/fs/cgroup : 0(%)
+
+[DISK]
+/DATA : 1(%)
+
+[DISK]
+/boot : 23(%)
+
+[DISK]
+/run/user/0 : 0(%)
+
+[DISK]
+/snap/core/8592 : 100(%)
+
+[DISK]
+/snap/core/8689 : 100(%)
+
+[DISK]
+/run/user/1001 : 0(%)
+
+[LOAD_AVG]
+0.27/0.10/0.03
+
+-----------Koti-OpenLab-M01 (172.27.0.244)-----------------------
+[IRIS]
+VALID/20200320114755
+
+-----------Koti-Visual (172.27.0.80)-----------------------
+[SWAP]
+27(%)
+
+[MEMORY]
+27(%)
+
+[DISK]
+/ : 39(%)
+
+[DISK]
+/dev : 0(%)
+
+[DISK]
+/dev/shm : 0(%)
+
+[DISK]
+/run : 2(%)
+
+[DISK]
+/sys/fs/cgroup : 0(%)
+
+[DISK]
+/boot : 18(%)
+
+[DISK]
+/DATA : 0(%)
+
+[DISK]
+/run/user/0 : 0(%)
+
+[DISK]
+/run/user/1001 : 0(%)
+
+[LOAD_AVG]
+0.07/0.04/0.05
+
+-----------Koti-OpenLab-D01 (10.64.255.126)-----------------------
+[SWAP]
+0(%)
+
+[MEMORY]
+3(%)
+
+[DISK]
+/ : 25(%)
+
+[DISK]
+/dev : 0(%)
+
+[DISK]
+/dev/shm : 0(%)
+
+[DISK]
+/run : 0(%)
+
+[DISK]
+/sys/fs/cgroup : 0(%)
+
+[DISK]
+/boot : 18(%)
+
+[DISK]
+/DATA : 7(%)
+
+[DISK]
+/run/user/0 : 0(%)
+
+[DISK]
+/run/user/1000 : 0(%)
+
+[LOAD_AVG]
+0.31/0.18/0.21
+
+-----------Koti-DB-01 (10.65.255.113)-----------------------
+[SWAP]
+0(%)
+
+[MEMORY]
+2(%)
+
+[DISK]
+/ : 46(%)
+
+[DISK]
+/dev : 0(%)
+
+[DISK]
+/dev/shm : 0(%)
+
+[DISK]
+/run : 1(%)
+
+[DISK]
+/sys/fs/cgroup : 0(%)
+
+[DISK]
+/DATA : 0(%)
+
+[DISK]
+/boot : 15(%)
+
+[DISK]
+/run/user/26 : 0(%)
+
+[DISK]
+/run/user/0 : 0(%)
+
+[DISK]
+/run/user/1000 : 0(%)
+
+[LOAD_AVG]
+0.02/0.04/0.05
+
+-----------OPENLAB (openlab.diamond-e.kr)-----------------------
+IRIS OPENLAB RESULT : 200 
+
+-----------Koti-Chain-02 (10.65.255.34)-----------------------
+[SWAP]
+0(%)
+
+[MEMORY]
+3(%)
+
+[DISK]
+/dev : 0(%)
+
+[DISK]
+/run : 10(%)
+
+[DISK]
+/ : 51(%)
+
+[DISK]
+/dev/shm : 0(%)
+
+[DISK]
+/run/lock : 0(%)
+
+[DISK]
+/sys/fs/cgroup : 0(%)
+
+[DISK]
+/DATA : 1(%)
+
+[DISK]
+/boot : 30(%)
+
+[DISK]
+/run/user/0 : 0(%)
+
+[DISK]
+/snap/core/8592 : 100(%)
+
+[DISK]
+/snap/core/8689 : 100(%)
+
+[DISK]
+/run/user/1002 : 0(%)
+
+[LOAD_AVG]
+0.01/0.04/0.01
+
+-----------Koti-OpenLab-A01 (10.64.255.127)-----------------------
+[SWAP]
+0(%)
+
+[MEMORY]
+8(%)
+
+[DISK]
+/ : 56(%)
+
+[DISK]
+/dev : 0(%)
+
+[DISK]
+/dev/shm : 0(%)
+
+[DISK]
+/run : 0(%)
+
+[DISK]
+/sys/fs/cgroup : 0(%)
+
+[DISK]
+/boot : 15(%)
+
+[DISK]
+/DATA : 49(%)
+
+[DISK]
+/run/user/0 : 0(%)
+
+[DISK]
+/run/user/1001 : 0(%)
+
+[LOAD_AVG]
+0.11/0.15/0.14
+
