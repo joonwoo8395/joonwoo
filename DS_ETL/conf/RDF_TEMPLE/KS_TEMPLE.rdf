@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dct="http://purl.org/dc/terms/" xmlns:vcard="http://www.w3.org/2006/vcard/ns#" xmlns:dcat="http://www.w3.org/ns/dcat#" xmlns:foaf="http://xmlns.com/foaf/0.1">
+	<dcat:Catalog>
+		<dct:identifier></dct:identifier>
+		<dct:title></dct:title>
+		<dct:description></dct:description>
+		<dct:language rdf:resource=""></dct:language>
+		<foaf:homepage></foaf:homepage>
+		<dct:publisher>
+			<foaf:Organization>
+				<foaf:name></foaf:name>
+				<foaf:homepage rdf:resource=""></foaf:homepage>
+				<foaf:mbox></foaf:mbox>
+				<foaf:phone></foaf:phone>
+			</foaf:Organization>
+		</dct:publisher>
+		<dct:issued></dct:issued>
+		<dct:modified></dct:modified>
+		<dcat:dataset>
+			<dcat:Dataset>
+				<dct:accessRights></dct:accessRights>
+				<dcat:contactPoint>
+					<vcard:Individual>
+						<vcard:fn></vcard:fn>
+						<vcard:hasEmail rdf:resource=""></vcard:hasEmail>
+						<vcard:hasTelephone rdf:resource=""></vcard:hasTelephone>
+					</vcard:Individual>
+				</dcat:contactPoint>
+				<dct:creator>
+					<foaf:Organization>
+						<foaf:name></foaf:name>
+						<foaf:homepage rdf:resource=""></foaf:homepage>
+						<foaf:mbox></foaf:mbox>
+						<foaf:phone></foaf:phone>
+					</foaf:Organization>
+				</dct:creator>
+				<dct:title></dct:title>
+				<dct:description></dct:description>
+				<dct:language rdf:resource=""></dct:language>
+				<dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date"></dct:issued>
+				<dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"></dct:modified>
+				<dct:publisher>
+					<foaf:Organization>
+						<foaf:name></foaf:name>
+						<foaf:homepage></foaf:homepage>
+						<foaf:mbox></foaf:mbox>
+						<foaf:phone></foaf:phone>
+					</foaf:Organization>
+				</dct:publisher>
+				<dct:identifier></dct:identifier>
+				<dcat:theme></dcat:theme>
+				<dct:type></dct:type>
+				<dcat:keyword></dcat:keyword>
+				<dcat:keyword></dcat:keyword>
+				<dcat:keyword></dcat:keyword>
+				<dcat:keyword></dcat:keyword>
+				<dcat:keyword></dcat:keyword>
+				<dcat:keyword></dcat:keyword>
+				<dcat:keyword></dcat:keyword>
+				<dcat:keyword></dcat:keyword>
+				<dcat:keyword></dcat:keyword>
+				<dcat:keyword></dcat:keyword>
+				<dcat:keyword></dcat:keyword>
+				<dcat:keyword></dcat:keyword>
+				<dcat:keyword></dcat:keyword>
+				<dcat:keyword></dcat:keyword>
+				<dcat:keyword></dcat:keyword>
+				<dcat:keyword></dcat:keyword>
+				<dcat:keyword></dcat:keyword>
+				<dcat:keyword></dcat:keyword>
+				<dcat:keyword></dcat:keyword>
+				<dcat:keyword></dcat:keyword>
+				<dcat:keyword></dcat:keyword>
+				<dcat:keyword></dcat:keyword>
+				<dcat:keyword></dcat:keyword>
+				<dcat:keyword></dcat:keyword>
+				<dcat:keyword></dcat:keyword>
+				<dcat:keyword></dcat:keyword>
+				<dcat:keyword></dcat:keyword>
+				<dcat:keyword></dcat:keyword>
+				<dcat:keyword></dcat:keyword>
+				<dcat:keyword></dcat:keyword>
+				<dcat:keyword></dcat:keyword>
+				<dcat:keyword></dcat:keyword>
+				<dcat:keyword></dcat:keyword>
+				<dcat:keyword></dcat:keyword>
+				<dcat:keyword></dcat:keyword>
+				<dcat:keyword></dcat:keyword>
+				<dcat:keyword></dcat:keyword>
+				<dcat:keyword></dcat:keyword>
+				<dcat:keyword></dcat:keyword>
+				<dcat:landingPage></dcat:landingPage>
+				<dct:license></dct:license>
+				<dct:rights></dct:rights>
+				<dcat:spatialResolutionInMeters></dcat:spatialResolutionInMeters>
+				<dcat:temporalResolution></dcat:temporalResolution>
+				<dct:accrualPeriodicity></dct:accrualPeriodicity>
+				<dct:spatial></dct:spatial>
+				<dct:temporal>
+					<dct:PeriodOfTime>
+						<dct:startDate></dct:startDate>
+						<dct:endDate></dct:endDate>
+					</dct:PeriodOfTime>
+				</dct:temporal>
+				<version></version>
+				<versionDescription></versionDescription>
+				<priceInfo></priceInfo>
+				<qualityInfo></qualityInfo>
+				<dcat:distribution>
+					<dcat:Distribution>
+						<dcat:accessService></dcat:accessService>
+						<dcat:accessURL></dcat:accessURL>
+
+						<dcat:byteSize rdf:datatype=""></dcat:byteSize>
+						<dcat:compressFormat>zip</dcat:compressFormat>										
+						<dcat:mediaType>https://www.iana.org/assignments/media-types/text/csv</dcat:mediaType>
+						<dcat:spatialResolutionInMeters></dcat:spatialResolutionInMeters>
+						<dcat:temporalResolution></dcat:temporalResolution>
+						<dct:format></dct:format>
+						<version></version>
+						<versionDescription></versionDescription>
+						<priceInfo></priceInfo>
+						<qualityInfo></qualityInfo>
+					</dcat:Distribution>
+				</dcat:distribution>
+			</dcat:Dataset>
+		</dcat:dataset>
+	</dcat:Catalog>
+</rdf:RDF>

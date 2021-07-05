@@ -1,0 +1,8 @@
+중계서버|^|GW|^|ReadDir.py|^|POSTGRES로딩|^|20201218000000|^|20201218000000|^|file:///home/ds_center/user/linda/definition/표준화작업_v2.2.xlsx|^||^|1429447|^||^||^||^|CENTER_STANDARDIZATION_COLUMN_DEFINITION|^||^||^|True|^|1511|^||^||^||^||^||^||^||^|
+
+중계서버|^|GW|^|ReadDir.py|^|POSTGRES로딩|^|20201218000000|^|20201218000000|^|file:///home/ds_center/user/linda/definition/표준화작업_v2.2.xlsx|^||^|1429447|^||^||^||^|CENTER_STANDARDIZATION_CODE_DEFINITION|^||^||^|True|^|9779|^||^||^||^||^||^||^||^|
+
+중계서버|^|GW|^|ReadDir.py|^|IRIS로딩|^|20201218000000|^|20201218000000|^|file:///home/ds_center/user/linda/definition/표준화작업_v2.2.xlsx|^||^|1429447|^||^||^||^|CENTER_STANDARDIZATION_COLUMN_DEFINITION|^|0|^|20201218162421|^|True|^|1511|^||^||^||^||^||^||^||^|
+
+중계서버|^|GW|^|ReadDir.py|^|IRIS로딩|^|20201218000000|^|20201218000000|^|file:///home/ds_center/user/linda/definition/표준화작업_v2.2.xlsx|^||^|1429447|^||^||^||^|CENTER_STANDARDIZATION_CODE_DEFINITION|^|0|^|20201218162421|^|True|^|9779|^||^||^||^||^||^||^||^|
+

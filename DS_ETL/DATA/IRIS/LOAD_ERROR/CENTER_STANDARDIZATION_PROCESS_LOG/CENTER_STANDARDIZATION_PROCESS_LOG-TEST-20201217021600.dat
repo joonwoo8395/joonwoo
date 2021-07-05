@@ -1,0 +1,6 @@
+중계서버|^|GW|^|ReadDir.py|^|POSTGRES로딩|^|20201217000000|^|20201217000000|^|file:///home/ds_center/user/ParkYT/표준화작업_v1.9.xlsx|^||^|1304271|^||^||^||^|CENTER_STANDARDIZATION_COLUMN_DEFINITION|^||^||^|True|^|1284|^||^||^||^||^||^||^||^|
+
+중계서버|^|GW|^|ReadDir.py|^|POSTGRES로딩|^|20201217000000|^|20201217000000|^|file:///home/ds_center/user/ParkYT/표준화작업_v1.9.xlsx|^||^|1304271|^||^||^||^|CENTER_STANDARDIZATION_CODE_DEFINITION|^||^||^|True|^|9400|^||^||^||^||^||^||^||^|
+
+중계서버|^|GW|^|ReadDir.py|^|IRIS로딩|^|20201217000000|^|20201217000000|^|file:///home/ds_center/user/ParkYT/표준화작업_v1.9.xlsx|^||^|1304271|^||^||^||^|CENTER_STANDARDIZATION_COLUMN_DEFINITION|^|0|^|20201217021314|^|True|^|1284|^||^||^||^||^||^||^||^|
+
