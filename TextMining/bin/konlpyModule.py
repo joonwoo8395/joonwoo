@@ -57,7 +57,7 @@ class KonLpyModule() :
 def main() :
 	module 	= os.path.basename(sys.argv[0])
 #	section	= sys.argv[1]
-#	cfgFile	= sys.argv[2]
+#	cfgFile	= sys.argv[2] 
 
 	inputFile       = sys.argv[1]
 #	cfg		= ConfigParser.ConfigParser()
