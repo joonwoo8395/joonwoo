@@ -94,7 +94,7 @@ def main() :
 	tk.run()
 
 if __name__ == '__main__' :
-	try:
+	try: 
 		main()
 	except ValueError :
 		print(ValueError)
