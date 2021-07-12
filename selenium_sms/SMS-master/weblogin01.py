@@ -2,7 +2,7 @@
 
 from selenium import webdriver
 from bs4 import BeautifulSoup
-import requests
+import requests 
 
 driver = webdriver.Chrome('/usr/local/bin/chromedriver')
 #driver.implicitly_wait(3)
