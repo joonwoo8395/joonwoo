@@ -8,7 +8,7 @@ import json
 import logging
 from logging.handlers import TimedRotatingFileHandler
 
-werkzeug.cached_property = werkzeug.utils.cached_property
+werkzeug.cached_property = werkzeug.utils.cached_property 
 
 from flask import make_response
 from flask import Flask, request
