@@ -13,7 +13,7 @@ import time
 import struct
 
 IDX_IP = 0
-IDX_PORT = 1
+IDX_PORT = 1 
 
 IDX_VALUE = 0
 IDX_DESC = 1
