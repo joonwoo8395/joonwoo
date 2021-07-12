@@ -12,7 +12,7 @@ import re
 
 class FileMonitor() :
 	def __init__(self, _Parser) :
-		self.PARSER = _Parser
+		self.PARSER = _Parser 
 		self.GetConfig()
 
 	def GetConfig(self) :
