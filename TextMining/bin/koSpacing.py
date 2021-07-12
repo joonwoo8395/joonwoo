@@ -70,7 +70,7 @@ def main() :
 	ks		= KoSpacingModule()
 	ks.run(inputFile)
 
-if __name__ == '__main__' :
+if __name__ == '__main__' : 
 	try:
 		main()
 	except ValueError :
