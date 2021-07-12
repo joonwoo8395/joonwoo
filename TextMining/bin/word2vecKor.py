@@ -28,7 +28,7 @@ class Word2VecModule():
                 t = ex
             resList.append(t)
 
-        print(resList)
+        print(resList) 
 
         inputString = sys.argv[1]
         filename = '../workd2vecFile/res_%s' % inputString
