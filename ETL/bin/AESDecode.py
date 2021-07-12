@@ -14,7 +14,7 @@ def pad(data, PADDING) :
 
 class AESDecode() :
 	def __init__(self) :
-		secret	= '140b41b22a29be4061bda66b6747e143'
+		secret	= '140b41b22a29be4061bda66b6747e143' 
 		self.cipher	= AES.new(secret)
 		self.PADDING = '|'
 
