@@ -22,7 +22,7 @@ class Handler(FileSystemEventHandler) :
 		__LOG__.Trace(event)
 
 		strEvent = str(event)
-		strFile = strEvent.split("'")[1]
+		strFile = strEvent.split("'")[1] 
 		global resultList
 		global resultSrc
 		resultSrc = ''
