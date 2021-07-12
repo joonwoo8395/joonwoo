@@ -5,7 +5,7 @@ import bson
 import time
 
 class DirectQueueClient:
-		def __init__( self ):
+		def __init__( self ): 
 				self.connection = None
 				self.channel	= None
 
