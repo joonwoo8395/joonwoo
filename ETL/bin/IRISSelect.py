@@ -24,7 +24,7 @@ class IRIS_SQL :
 
 			cursor.Execute2(sql)
 
-		except :
+	 	except :
 			__LOG__.Exception()
 
 		finally :
