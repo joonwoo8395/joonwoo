@@ -32,7 +32,7 @@ class Word2VecModule():
             a = 'index : {} value: {}'.format(*t)
             print(a)
             fout.write(a)
-
+ 
 def main():
     f = open(sys.argv[1], "r")
     line = f.readline()
