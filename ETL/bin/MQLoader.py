@@ -20,7 +20,7 @@ SHUTDOWN = False
 # @param frame Stack Frame
 def handler(signum, frame):
 	global SHUTDOWN
-	SHUTDOWN = True
+	SHUTDOWN = True 
 	__LOG__.Trace('Catch Signal = %s' % signum)
 
 ## SIGTERM 
